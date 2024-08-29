@@ -1,7 +1,7 @@
 // testestsetsets
 //checkout
 //checkout
-class node {
+class nod {
     constructor(value) {
         this.value = value
         this.left = null
